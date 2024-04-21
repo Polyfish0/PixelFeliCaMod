@@ -9,4 +9,5 @@ I have not tested this in the wild and will not be able to do so until January i
 
 Tested on:
 * Pixel 7 (US)
+* Pixel 7 (Germany)
 * Pixel 8 Pro (US)
